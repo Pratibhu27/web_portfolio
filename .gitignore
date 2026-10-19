@@ -1,0 +1,18 @@
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and local environment secrets
+*.log
+.env
+.env.*
+!.env.example
+
+# Dependency/build folders, if added in the future
+node_modules/
+dist/
+build/
